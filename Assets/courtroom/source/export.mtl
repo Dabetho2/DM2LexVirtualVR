@@ -1,0 +1,168 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.262400)
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl vinyle_006_new_Room_Entity_Material
+Kd 1 1 1
+Ks 0.05000000074505806 0.05000000074505806 0.05000000074505806
+d 1
+Ns 1
+illum 2
+map_Kd vinyle_006_new.jpg
+
+newmtl parquet_043_Room_Entity_Material
+Kd 1 1 1
+Ks 0.1000076308846474 0.1000076308846474 0.1000076308846474
+d 1
+Ns 10
+illum 2
+map_Kd parquet_043.jpg
+
+newmtl pack_004_salon_002_tableau___enduit1
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+d 1
+illum 1
+
+newmtl C589DFCB-DD7A-4971-A195-3FCC9DFDAAF3
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd C589DFCB-DD7A-4971-A195-3FCC9DFDAAF3.pngmap_d C589DFCB-DD7A-4971-A195-3FCC9DFDAAF3.png
+
+
+newmtl bois_010
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_010.jpg
+
+newmtl 20220423-9347-utc+2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20220423-9347-utc+2.jpg
+
+newmtl fenetre_us_009_48_new___verre
+Kd 0.9960780143737793 0.9960780143737793 0.9960780143737793
+Ks 0 0 0
+d 0.3019610047340393
+illum 1
+
+newmtl tex_plan_travail3_new
+Kd 1 1 1
+Ks 0.05000000074505806 0.05000000074505806 0.05000000074505806
+d 1
+Ns 1
+illum 2
+map_Kd tex_plan_travail3_new.jpg
+
+newmtl 33_polished brushed gold texture
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 33_polished brushed gold texture.jpg
+
+newmtl 20200414-145749-cest
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200414-145749-cest.jpg
+
+newmtl bois_084
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_084.jpg
+
+newmtl cuir_001
+Kd 1 1 1
+Ks 0.1000080034136772 0.1000080034136772 0.1000080034136772
+d 1
+Ns 10
+illum 2
+map_Kd cuir_001.jpg
+
+newmtl vitre_transparente
+Kd 1 1 1
+Ks 0.2000000029802322 0.2000000029802322 0.2000000029802322
+d 1
+Ns 45
+illum 2
+map_Kd vitre_transparente.pngmap_d vitre_transparente.png
+
+
+newmtl gris_004
+Kd 0.2470588237047195 0.2470588237047195 0.2470588237047195
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl gris_002
+Kd 0.4235294163227081 0.4235294163227081 0.4235294163227081
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl 20200227-155353-est
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200227-155353-est.jpg
+
+newmtl banc_ww_001___metal_vis
+Kd 0.2181818336248398 0.2181818336248398 0.2181818336248398
+Ks 0.8246753215789795 0.8246753215789795 0.8246753215789795
+d 1
+Ns 18
+illum 2
+
+newmtl 81949820-686B-40C4-B474-EEA92AC123E0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 81949820-686B-40C4-B474-EEA92AC123E0.pngmap_d 81949820-686B-40C4-B474-EEA92AC123E0.png
+
+
+newmtl beige_006_Wall_Entity_Material
+Kd 0.9098039269447327 0.9098039269447327 0.8784313797950745
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl tex_marbre7_new_Wall_Entity_Material
+Kd 1 1 1
+Ks 0.05000000074505806 0.05000000074505806 0.05000000074505806
+d 1
+Ns 1
+illum 2
+map_Kd tex_marbre7_new.jpg
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
